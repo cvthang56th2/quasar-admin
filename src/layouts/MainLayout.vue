@@ -73,6 +73,14 @@
             <q-item-label>CRM Dashboard</q-item-label>
           </q-item-section>
         </q-item>
+        <q-item to="/Ledger" active-class="q-item-no-link-highlighting">
+          <q-item-section avatar>
+            <q-icon name="dashboard"/>
+          </q-item-section>
+          <q-item-section>
+            <q-item-label>Ledger</q-item-label>
+          </q-item-section>
+        </q-item>
         <q-expansion-item
           icon="pages"
           label="Pages"
